@@ -6,10 +6,10 @@
     { "id": 4, "daystoPublish": "10", "serviceDate": "2022-04-24 a 2022-09-15", "nApplication": "ord_gnsbv12", "nApplication" : "1 de 1", "ServiceValue": "200.00", "Status": "status: 100%"},
   ],
   "account": [
-    { "id": 1, "registro": "2021-03-16T18:30:23.942Z", "account_status": "confirmed", "empresa": [ "CEP_sede" : "37115-000", "CNPJ" : "22587687000146", "Razao_Social" : "USINA MONTE ALEGRE LTDA" ]},
-    { "id": 2, "registro": "2021-004-17T17:10:21.942Z", "account_status": "confirmed", "empresa": [ "CEP_sede" : "33213-000", "CNPJ" : "32141687000146", "Razao_Social" : "USINA PARAISOPOLIS LTDA" ]},
-    { "id": 3, "registro": "2021-05-23T19:30:23.942Z", "account_status": "confirmed", "empresa": [ "CEP_sede" : "123412-000", "CNPJ" : "4218322100146", "Razao_Social" : "USINA VITERRA LTDA" ]},
-    { "id": 4, "registro": "2021-06-29T20:30:23.942Z", "account_status": "confirmed", "empresa": [ "CEP_sede" : "98232-000", "CNPJ" : "832163000146", "Razao_Social" : "USINA VERMELHO LTDA" ]},,
+    { "id": 1, "registro": "2021-03-16T18:30:23.942Z", "account_status": "confirmed", "CEP_sede" : "37115-000", "CNPJ" : "22587687000146", "Razao_Social" : "USINA MONTE ALEGRE LTDA" },
+    { "id": 2, "registro": "2021-004-17T17:10:21.942Z", "account_status": "confirmed", "CEP_sede" : "33213-000", "CNPJ" : "32141687000146", "Razao_Social" : "USINA PARAISOPOLIS LTDA" },
+    { "id": 3, "registro": "2021-05-23T19:30:23.942Z", "account_status": "confirmed", "CEP_sede" : "123412-000", "CNPJ" : "4218322100146", "Razao_Social" : "USINA VITERRA LTDA" },
+    { "id": 4, "registro": "2021-06-29T20:30:23.942Z", "account_status": "confirmed",  "CEP_sede" : "98232-000", "CNPJ" : "832163000146", "Razao_Social" : "USINA VERMELHO LTDA" },
 
   ],
   "empresa": {
