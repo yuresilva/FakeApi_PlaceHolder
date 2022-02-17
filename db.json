@@ -6,7 +6,7 @@
       "OrderHeader" : "ord_3f9ce5",
       "nApplication" : "1 de 1",
       "ServiceValue" : "82.84",
-      "Status" : : "status: 100% Process Again"
+      "Status" : "status: 100% Process Again"
     },
     {
       "daystoPublish" : "123",
@@ -14,7 +14,7 @@
       "OrderHeader" : "ord_fsd31s",
       "nApplication" : "1 de 1",
       "ServiceValue" : "92.23",
-      "Status" : : "status: 100% Process Again"
+      "Status" : "status: 100% Process Again"
     },
     {
       "daystoPublish" : "451",
@@ -22,7 +22,7 @@
       "OrderHeader" : "ord_dxs123x",
       "nApplication" : "1 de 1",
       "ServiceValue" : "109.00",
-      "Status" : : "status: 100% Process Again"
+      "Status" : "status: 100% Process Again"
     },
     {
       "daystoPublish" : "32",
@@ -30,7 +30,7 @@
       "OrderHeader" : "ord_jion321",
       "nApplication" : "1 de 1",
       "ServiceValue" : "220.10",
-      "Status" : : "status: 100% Process Again"
+      "Status" : "status: 100% Process Again"
     },
   ]
 }
